@@ -1,6 +1,7 @@
 {
   "name": "archers-notes",
   "private": true,
+  "packageManager": "npm@11.19.1",
   "scripts": {
     "build": "turbo run build",
     "dev": "turbo run dev",
