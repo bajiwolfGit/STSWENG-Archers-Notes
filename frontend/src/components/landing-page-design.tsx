@@ -1,9 +1,7 @@
-import landingBackground from "../assets/landing-page-design.svg";
-
 export function LandingPageDesign() {
   return (
     <img
-      src={landingBackground}
+      src="/assets/landing-page-design.svg"
       alt=""
       aria-hidden="true"
       className="
