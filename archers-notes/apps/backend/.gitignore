@@ -1,0 +1,22 @@
+# compiled output
+/dist
+/node_modules
+*.tsbuildinfo
+
+# logs
+*.log
+
+# tests
+/coverage
+
+# editors / OS
+/.idea
+.vscode/*
+!.vscode/extensions.json
+.DS_Store
+
+# environment variables (contain secrets, never commit)
+.env
+.env.local
+.env.*.local
+/src/generated/prisma
